@@ -1,0 +1,24 @@
+*{
+    background: rgb(0, 204, 255);
+}
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin: 5%;
+}
+.images{    
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 40%;
+}
+.cattext{
+    color: darkblue;
+    font-size: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ 
